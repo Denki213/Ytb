@@ -1,0 +1,15 @@
+{
+  "name": "youtube-video-downloader",
+  "version": "1.0.0",
+  "description": "Un téléchargeur de vidéos YouTube utilisant une API.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0"
+  },
+  "author": "Renji Starfall",
+  "license": "MIT"
+}
